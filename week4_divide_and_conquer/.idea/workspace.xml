@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a5327fb-973d-4d4d-9572-16dfe058c5c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1b8Q61HtLWHhIfDjh1dLo5MQlam" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+      <command value="cd 2_majority_element" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="wee4" type="Application" factoryName="Application">
+      <module name="week4_divide_and_conquer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a5327fb-973d-4d4d-9572-16dfe058c5c5" name="Default Changelist" comment="" />
+      <created>1588011067054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588011067054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="58" width="574" height="684" key="#Unnamed" timestamp="1588011670190">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="391" y="58" width="574" height="684" key="#Unnamed/0.30.1366.738@0.30.1366.738" timestamp="1588011670190" />
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588011650748">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="141" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1588011650748" />
+    <state x="391" y="58" width="574" height="684" key="#wee4" timestamp="1588011715833">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="391" y="58" width="574" height="684" key="#wee4/0.30.1366.738@0.30.1366.738" timestamp="1588011715833" />
+    <state x="432" y="143" width="424" height="515" key="FileChooserDialogImpl" timestamp="1588175277743">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="432" y="143" width="424" height="515" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1588175277743" />
+    <state width="660" height="173" key="GridCell.Tab.0.bottom" timestamp="1588011785904">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="660" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1588011785904" />
+    <state width="660" height="173" key="GridCell.Tab.0.center" timestamp="1588011785903">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="660" height="173" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1588011785903" />
+    <state width="660" height="173" key="GridCell.Tab.0.left" timestamp="1588011785903">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="660" height="173" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1588011785903" />
+    <state width="660" height="173" key="GridCell.Tab.0.right" timestamp="1588011785904">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="660" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1588011785904" />
+    <state x="166" y="30" width="1024" height="738" key="SettingsEditor" timestamp="1588011451281">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="166" y="30" width="1024" height="738" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1588011451281" />
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1588175118610">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1588175118610" />
+    <state x="38" y="30" width="1222" height="738" key="new project wizard" timestamp="1588175281499">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="38" y="30" width="1222" height="738" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1588175281499" />
+    <state x="347" y="176" width="672" height="677" key="run.anything.popup" timestamp="1588011776559">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="347" y="176" width="672" height="677" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1588011776559" />
+  </component>
+</project>
